@@ -14,5 +14,6 @@ File {
 }
 node 'puppetmaster.ent.dped.local' {
   include hiera
+  include pe_repo::platform::el_5_x86_64 class
 }
 hiera_include('classes')
