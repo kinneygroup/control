@@ -13,7 +13,6 @@ File {
               'CVS' ],
 }
 node 'puppetmaster.ent.dped.local' {
-  include hiera
-  include pe_repo::platform::el_5_x86_64 class
+  #include hiera
 }
 hiera_include('classes')
