@@ -10,3 +10,6 @@ mod 'stdlib',
 mod 'pe_puppetserver_gem',
   :git => 'git@github.com:kinneygroup/puppetlabs-pe_puppetserver_gem.git',
   :ref => 'kgi-1.0.0'
+mod 'dib',
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-dib.git',
+  :ref => '0ad170609d7'
