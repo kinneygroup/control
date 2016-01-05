@@ -25,3 +25,6 @@ mod 'common',
 mod 'securehosts',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-securehosts.git',
   :ref => '3b59ed97d63'
+mod 'splunkforwarder',
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-splunkforwarder.git',
+  :ref => 'e567efdfd83'
