@@ -34,3 +34,6 @@ mod 'timezone',
 mod 'dnsclient',
   :git => 'git://github.com/kinneygroup/puppet-module-dnsclient.git',
   :ref => 'v3.1.0'
+mod 'hosts',
+  :git => 'git://github.com/kinneygroup/puppet-module-hosts.git',
+  :ref => 'v2.1.0'
