@@ -16,3 +16,6 @@ mod 'dib',
 mod 'oracletasks',
   :git => 'git://github.com/kinneygroup/puppet-module-oracletasks.git',
   :ref => 'v0.3.0'
+mod 'army_classification',
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-army_classification.git',
+  :ref => '97fa20d22e3'
