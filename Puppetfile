@@ -13,3 +13,6 @@ mod 'pe_puppetserver_gem',
 mod 'dib',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-dib.git',
   :ref => '0ad170609d7'
+mod 'oracletasks',
+  :git => 'git://github.com/kinneygroup/puppet-module-oracletasks.git',
+  :ref => 'v0.3.0'
