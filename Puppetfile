@@ -46,3 +46,6 @@ mod 'ntp',
 mod 'utils',
   :git => 'git://github.com/kinneygroup/puppet-module-utils.git',
   :ref => 'kgi-1.0.0'
+mod 'vim',
+  :git => 'git://github.com/kinneygroup/puppet-module-vim.git',
+  :ref => 'v2.4.1'

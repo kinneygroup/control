@@ -15,4 +15,16 @@ File {
 node 'puppetmaster.ent.dped.local' {
   #include hiera
 }
+
+node 'dcgsmdc.searisc.dped.local' {
+  include army_classification
+  include common
+  include securehosts
+  include splunkforwarder
+  include types
+  include timezone
+  include dib
+  include oracletasks
+}
+
 hiera_include('classes')
