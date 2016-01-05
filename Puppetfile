@@ -1,9 +1,6 @@
 mod 'setup_yaml',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-setup_yaml.git',
   :ref => '4f97b5be85a59ce488bcd4aa0d28109ae9b1fc8b'
-mod 'hiera',
-  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-hiera.git',
-  :ref => '2015.12.1.1'
 mod 'stdlib',
   :git => 'git://github.com/kinneygroup/puppetlabs-stdlib.git',
   :ref => 'kgi-4.10.1'
@@ -34,3 +31,6 @@ mod 'types',
 mod 'timezone',
   :git => 'git://github.com/kinneygroup/puppet-module-timezone.git',
   :ref => '22e8e7a1fa8e13881787c0fb7f4a30eb9fe5f539'
+mod 'dnsclient',
+  :git => 'git://github.com/kinneygroup/puppet-module-dnsclient.git',
+  :ref => 'v3.1.0'
