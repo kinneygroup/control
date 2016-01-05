@@ -28,3 +28,6 @@ mod 'securehosts',
 mod 'splunkforwarder',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-splunkforwarder.git',
   :ref => 'e567efdfd83'
+mod 'types',
+  :git => 'git://github.com/kinneygroup/puppet-module-types.git',
+  :ref => 'kgi-1.0.0'
