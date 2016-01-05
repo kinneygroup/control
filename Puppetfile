@@ -40,3 +40,6 @@ mod 'hosts',
 mod 'nsswitch',
   :git => 'git://github.com/kinneygroup/puppet-module-nsswitch.git',
   :ref => 'v1.1.0'
+mod 'ntp',
+  :git => 'git://github.com/kinneygroup/puppet-module-ntp.git',
+  :ref => 'v3.0.0'
