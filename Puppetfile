@@ -52,3 +52,6 @@ mod 'vim',
 mod 'wget',
   :git => 'git://github.com/kinneygroup/puppet-wget.git',
   :ref => 'fork'
+mod 'check_repo',
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-check_repo.git',
+  :ref => '0bb355177d8'
