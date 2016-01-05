@@ -22,3 +22,6 @@ mod 'army_classification',
 mod 'common',
   :git => 'git://github.com/kinneygroup/puppet-module-common.git',
   :ref => 'kgi-1.0.0'
+mod 'securehosts',
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-securehosts.git',
+  :ref => '3b59ed97d63'
