@@ -55,3 +55,6 @@ mod 'wget',
 mod 'check_repo',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-check_repo.git',
   :ref => '0bb355177d8'
+mod 'ci_yumconf',
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-ci_yumconf.git',
+  :ref => 'dbb7e04e55bM'
