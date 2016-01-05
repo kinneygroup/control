@@ -31,3 +31,6 @@ mod 'splunkforwarder',
 mod 'types',
   :git => 'git://github.com/kinneygroup/puppet-module-types.git',
   :ref => 'kgi-1.0.0'
+mod 'timezone',
+  :git => 'git://github.com/kinneygroup/puppet-module-timezone.git',
+  :ref => '22e8e7a1fa8e13881787c0fb7f4a30eb9fe5f539'
