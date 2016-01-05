@@ -43,3 +43,6 @@ mod 'nsswitch',
 mod 'ntp',
   :git => 'git://github.com/kinneygroup/puppet-module-ntp.git',
   :ref => 'v3.0.0'
+mod 'utils',
+  :git => 'git://github.com/kinneygroup/puppet-module-utils.git',
+  :ref => 'kgi-1.0.0'
