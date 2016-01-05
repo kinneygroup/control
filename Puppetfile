@@ -19,3 +19,6 @@ mod 'oracletasks',
 mod 'army_classification',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-army_classification.git',
   :ref => '97fa20d22e3'
+mod 'common',
+  :git => 'git://github.com/kinneygroup/puppet-module-common.git',
+  :ref => 'kgi-1.0.0'
