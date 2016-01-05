@@ -49,3 +49,6 @@ mod 'utils',
 mod 'vim',
   :git => 'git://github.com/kinneygroup/puppet-module-vim.git',
   :ref => 'v2.4.1'
+mod 'wget',
+  :git => 'git://github.com/kinneygroup/puppet-wget.git',
+  :ref => 'fork'
