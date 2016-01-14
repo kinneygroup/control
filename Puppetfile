@@ -58,6 +58,3 @@ mod 'check_repo',
 mod 'ci_yumconf',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-ci_yumconf.git',
   :ref => 'e987a1c1e99'
-mod 'dcgsa_network',
-  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-dcgsa_network.git',
-  :ref => '312f862a1e6'
