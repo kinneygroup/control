@@ -85,6 +85,6 @@ mod 'wxapp_master',
 mod 'dcgsa_network',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-dcgsa_network.git',
   :ref => '312f862a1e6'
-mod 'dcgsa_network',
-  :git => 'ssh://git@github.com:kinneygroup/puppetlabs-powershell.git',
+mod 'powershell',
+  :git => 'git@github.com:kinneygroup/puppetlabs-powershell.git',
   :ref => 'kgi-1.0.0'
