@@ -59,32 +59,23 @@ mod 'ci_yumconf',
   :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-ci_yumconf.git',
   :ref => 'e987a1c1e99'
 mod 'app_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-app_master.git',
-  :ref => 'c6bbd0284ae'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-app_master.git'
 mod 'geo_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-geo_master.git',
-  :ref => '23d59daeb1d'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-geo_master.git'
 mod 'iop_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-iop_master.git',
-  :ref => 'bf17b1ef087'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-iop_master.git'
 mod 'mdc_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-mdc_master.git',
-  :ref => 'f194a47a4fe'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-mdc_master.git'
 mod 'msg_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-msg_master.git',
-  :ref => '66912b6b001'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-msg_master.git'
 mod 'ozone_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-ozone_master.git',
-  :ref => '580633249d1'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-ozone_master.git'
 mod 'sde_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-sde_master.git',
-  :ref => '4461983f90c'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-sde_master.git'
 mod 'wxapp_master',
-  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-wxapp_master.git',
-  :ref => '8d565d1663f'
+  :git => 'ssh://git@stash.kgilab.local:7999/dcgsa/puppet-module-wxapp_master.git'
 mod 'dcgsa_network',
-  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-dcgsa_network.git',
-  :ref => '312f862a1e6'
+  :git => 'ssh://git@stash.kgilab.local:7999/dped_2_0/puppet-module-dcgsa_network.git'
 mod 'powershell',
   :git => 'git@github.com:kinneygroup/puppetlabs-powershell.git',
   :ref => 'kgi-1.0.0'
