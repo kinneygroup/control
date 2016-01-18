@@ -17,14 +17,7 @@ node 'puppetmaster.ent.dped.local' {
 }
 
 node 'dcgsmdc.searisc.dped.local' {
-  include army_classification
-  include common
-  include securehosts
-  include splunkforwarder
-  include types
-  include timezone
-  include dib
-  include oracletasks
+  include mdc_master
 }
 
 hiera_include('classes')
